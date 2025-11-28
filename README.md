@@ -1,2 +1,0 @@
-# Taller_2_Programacion_Avanzada_PROTOCOLOS
-Sistema Inspectoria PROTOCOLOS
