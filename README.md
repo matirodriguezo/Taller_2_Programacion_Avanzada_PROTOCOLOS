@@ -7,9 +7,9 @@ cómo iniciar sesión, cómo navegar entre los módulos y cómo utilizar cada
 función. La idea es que cualquier persona incluido el profesor pueda
 probar el sistema en minutos.
 
-==========================================================
+=
 1. TECNOLOGÍAS UTILIZADAS
-==========================================================
+=
 
 ✔ Java JSP + Servlets  
 ✔ Apache Tomcat  
@@ -17,9 +17,9 @@ probar el sistema en minutos.
 ✔ Bootstrap 5  
 ✔ MySQL Workbench  
 
-==========================================================
+=
 2. OBJETIVO DEL SISTEMA
-==========================================================
+=
 
 El sistema permite gestionar protocolos de Inspectoría:
 
@@ -31,9 +31,9 @@ El sistema permite gestionar protocolos de Inspectoría:
 • Gestionar tipos de protocolos  
 • Control de sesión seguro  
 
-==========================================================
+=
 3. LOGIN – CÓMO INGRESAR AL SISTEMA
-==========================================================
+=
 
 URL inicial:
 ------------------------------------
@@ -51,16 +51,16 @@ Al ingresar:
 ✔ Se guarda la hora de inicio.
 ✔ Se muestra arriba a la derecha: Usuario + Hora Login.
 
-==========================================================
+=
 4. CÓMO NAVEGAR POR EL SISTEMA (FLUJO CONCRETO)
-==========================================================
+=
 
 A continuación, se explica el flujo real de navegación tal como lo verá
 al probar el sistema.
 
-==========================================================
+=
 5. ALUMNOS DE LA BASE DE DATOS
-==========================================================
+=
 
 La siguiente tabla muestra los alumnos existentes en la BD.
 Esto es importante para saber qué nombres usar
@@ -226,4 +226,5 @@ Tabla de tipos de protocolo existentes:
 FIN DEL DOCUMENTO
 
 ==========================================================
+
 
