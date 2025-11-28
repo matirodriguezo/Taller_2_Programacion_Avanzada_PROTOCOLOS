@@ -1,6 +1,6 @@
-==========================================================
-        SISTEMA DE INSPECTORÍA EQUIPO 3 PROTOCOLOS – README OFICIAL
-==========================================================
+=
+SISTEMA DE INSPECTORÍA EQUIPO 3 PROTOCOLOS – README OFICIAL
+=
 
 Este documento describe el funcionamiento del Sistema de Inspectoría:
 cómo iniciar sesión, cómo navegar entre los módulos y cómo utilizar cada
@@ -226,3 +226,4 @@ Tabla de tipos de protocolo existentes:
 FIN DEL DOCUMENTO
 
 ==========================================================
+
